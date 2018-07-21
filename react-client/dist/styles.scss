@@ -4,25 +4,28 @@ header {
   width: 100%;
   height: 50px;
   color: white;
-  margin: auto; }
+  margin: auto;
+}
 
 .roundless {
-  border-radius: 0 !important; }
+  border-radius: 0 !important;
+}
 
 #headerButtons {
   list-style-type: none;
   margin: auto;
   padding: 0;
-  vertical-align: middle; }
+  vertical-align: middle;
+}
 
 .navButton {
-  float: right; }
+  float: right;
+}
 
 footer {
   display: block;
   width: 100%;
   height: 50px;
   background-color: black;
-  color: white; }
-
-/*# sourceMappingURL=styles.css.map */
+  color: white;
+}

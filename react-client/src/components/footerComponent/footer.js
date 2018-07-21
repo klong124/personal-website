@@ -1,15 +1,12 @@
 import React, {Component} from 'react'
+import {Menu} from 'semantic-ui-react'
 
 class Footer extends Component
 {
   render()
   {
     return (
-      <footer>
-        <div>
-          Footer component
-        </div>
-      </footer>
+      <Menu inverted className="roundless" />
     )
   }
 }
